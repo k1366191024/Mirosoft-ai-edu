@@ -6,5 +6,13 @@
 
 任务：请对数据进行三维可视化分析，并训练出良好的线性回归模型。
 
-本方法参照教程完成
+本方法参照简明教程案例的代码修改调试完成
 
+
+
+2. 非线性多分类器
+鸢尾花数据集iris.csv含有150条记录，每条记录包含萼片长度sepal length、萼片宽度sepal width、 花瓣长度petal length和花瓣宽度petal width四个数值型特征，以及它的所属类别class（可能为Iris-setosa,Iris-versicolor,Iris-virginica三者之一）。
+
+任务：请利用该数据集训练出一个良好的非线性分类器。
+
+本方法也参照简明教程案例的代码修改调试完成
